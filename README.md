@@ -44,3 +44,17 @@ floor_inputs = [
 ### Execute tool
 
 Execute with `python DNAC_change_AP_height.py`
+
+## ⚠️Known issues
+
+--
+
+## 📯 Getting help
+
+Please use the [issue-page] of the repository for any requests or bug reports.
+
+## ✏️ Author(s)
+
+This project was written and is maintained by the following individuals:
+
+-   Team DevNet @ Anyweb AG
