@@ -1,6 +1,6 @@
 # Guidance on how to contribute
 
-Contributions to this code are welcome and appreciated. Code development takes place at <https://gitlab.com/anyweb/cisco-code-exchange/ise-management-tool>.
+Contributions to this code are welcome and appreciated. Code development takes place at <https://gitlab.com/anyweb/cisco-code-exchange/dnac_ap_heights>.
 The GitHub repository is for "read only" purposes only.
 
 Please adhere to our [Code of Conduct](./CODE_OF_CONDUCT.md) at all times.
