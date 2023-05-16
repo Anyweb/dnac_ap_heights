@@ -51,7 +51,7 @@ Execute with `python DNAC_change_AP_height.py`
 
 ## 📯 Getting help
 
-Please use the [issue-page] of the repository for any requests or bug reports.
+Please use the [issue-page](https://gitlab.com/anyweb/cisco-code-exchange/dnac_ap_heights/-/issues) of the repository for any requests or bug reports.
 
 ## ✏️ Author(s)
 
