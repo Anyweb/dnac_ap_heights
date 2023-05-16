@@ -3,7 +3,7 @@
 Contributions to this code are welcome and appreciated. Code development takes place at <https://gitlab.com/anyweb/cisco-code-exchange/dnac_ap_heights>.
 The GitHub repository is for "read only" purposes only.
 
-Please adhere to our [Code of Conduct](./CODE_OF_CONDUCT) at all times.
+Please adhere to our [Code of Conduct](./CODE_OF_CONDUCT.md) at all times.
 
 > All contributions to this code will be released under the terms of the [LICENSE](./LICENSE) of this code. By submitting a pull request or filing a bug, issue, or feature request, you are agreeing to comply with this waiver of copyright interest. Details can be found in our [LICENSE](./LICENSE).
 

@@ -7,7 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Released]
 
-## [1.0.0] - 2023-05-11
+## [1.0.0] - 2023-05-16
 
+### Added
 -   First version released
 -   Compatible with Cisco DNA Center Version: 2.3.5.2
